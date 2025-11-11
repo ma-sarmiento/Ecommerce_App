@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Laptop Gamer",
+    "precio": 5800000,
+    "imagen": "assets/images/laptop.png",
+    "descripcion": "Laptop de alto rendimiento con tarjeta RTX.",
+    "categoria": "Tecnología",
+    "stock": 10
+  },
+  {
+    "nombre": "Audífonos Bluetooth",
+    "precio": 570000,
+    "imagen": "assets/images/audifonos.jpg",
+    "descripcion": "Sonido envolvente y batería de larga duración.",
+    "categoria": "Audio",
+    "stock": 20
+  },
+  {
+    "nombre": "Reloj Inteligente",
+    "precio": 380000,
+    "imagen": "assets/images/reloj.png",
+    "descripcion": "Resistente al agua, sensor cardíaco y GPS.",
+    "categoria": "Tecnología",
+    "stock": 15
+  }
+]
