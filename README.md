@@ -1,7 +1,7 @@
 # 🛍️ Flutter Store App
 Aplicación móvil desarrollada en **Flutter**, que implementa un catálogo de productos consumidos desde una **API REST** utilizando **DIO**. Incluye navegación, temas claro/oscuro, manejo de errores, arquitectura Repository + Service y pantalla de detalle.
 
-Este proyecto forma parte de prácticas academicas, pero está estructurado como una aplicación real lista para portafolio.
+Este proyecto forma parte de los avances practicos del curso Flutter para aplicaciones moviles de EanX, pero está estructurado como una aplicación real lista para portafolio.
 
 ---
 
